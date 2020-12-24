@@ -1,4 +1,4 @@
-# 계절학기 PJT - 발표
+# FlaskCoin
 
 ## Block Chain
 
@@ -88,3 +88,23 @@ def index():
 
         return render_template('index.html', index=index, hash=hash, nonce=nonce, prev_hash=prev_hash)
 ```
+
+
+
+
+
+- index
+
+![image-20201224141936966](README.assets/image-20201224141936966.png)
+
+
+
+- mine
+
+![image-20201224142022489](README.assets/image-20201224142022489.png)
+
+
+
+- total block chain (stringify)
+
+![image-20201224142111876](README.assets/image-20201224142111876.png)
